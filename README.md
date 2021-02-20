@@ -1,2 +1,2 @@
-# MondoReacto
-Complete microservice system using reactive components throughout
+# FunctionalExceptions
+Some wrapper classes to allow exception throwing in lambdas
